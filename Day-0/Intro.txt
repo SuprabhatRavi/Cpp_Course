@@ -1,0 +1,10 @@
+Intro about cpp / C++.
+1.) General Purpose Middle Level Programming Language.
+2.) It's a superset of C language.
+3.) It has Object oriented and have Generic Programming features.
+4.) Linux, Unix, Windows and Mac as well
+
+
+Git Commands:-
+1.) git clone https://github.com/Satyam-Bhalla/Cpp_Course.git -> git pull
+
